@@ -1,5 +1,5 @@
-# Wearable & Body Composition Data Visualization
+# Wearable and Body Composition Data Visualization
 
-Exploratory visualization of wearable and bioelectrical impedance data, examining relationships between physiological parameters such as cardiovascular endurance, diving depth, and muscle mass using Matplotlib, Seaborn, and Plotly. Results highlight basic trends in a small dataset. 
+Exploratory visualization of wearable and bioelectrical impedance data, examining relationships between physiological parameters such as cardio fitness, diving depth, and muscle mass using **Matplotlib**, **Seaborn**, and **Plotly**.
 
-Due to the limited sample size (n = 4), findings are illustrative and should be interpreted with caution.
+Results highlight basic trends in a small exploratory dataset and should be interpreted with caution.
