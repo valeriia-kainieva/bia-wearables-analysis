@@ -4,3 +4,7 @@
 
 **Note:** The data represent a single subject; observed correlations are descriptive and should not be interpreted as evidence of general physiological relationships.
 
+**Parameters:** diving depth, cardio fitness (estimated VO₂ max), muscle mass. 
+
+**Devices:** Apple Watch Series 10, Noerden Minimi (bioelectrical impedance scale).
+
